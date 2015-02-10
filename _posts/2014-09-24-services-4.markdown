@@ -1,0 +1,9 @@
+---
+layout: default
+img: howToFish.png
+category: Services
+title: Want to make a difference?<br>Help us help them!
+description: |
+  <p class="lead">At dream2code, we train 21st century skills to local disadvantaged youth. Help us help them by supporting our cause and their dream!</p>
+
+---

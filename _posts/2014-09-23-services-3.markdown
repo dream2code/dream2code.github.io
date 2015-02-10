@@ -1,0 +1,9 @@
+---
+layout: default
+img: teacher.png
+category: Services
+title: Got some mad skills?<br>Want to give back?<br>Become a mentor!
+description: |
+  <p class="lead">Teach local youth to build websites for local organizations that need an online presence.</p>
+
+---

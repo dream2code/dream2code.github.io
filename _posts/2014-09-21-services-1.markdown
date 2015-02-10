@@ -1,0 +1,9 @@
+---
+layout: default
+img: small_biz.png
+category: Services
+title: Are you a small business or org?<br>Need a website for free?<br>Apply today!
+description: |
+  <p class="lead">At dream2code, we build websites for small organizations and businesses. Free!</p>
+
+---
